@@ -1,3 +1,7 @@
 # AdaBound optimizer MXNet implement
 
-usage: `from adabound_mx import AdaBound`
+import AdaBound from adabound_mx.py to use.
+
+refer to: https://github.com/Luolc/AdaBound
+
+run `python test.py to test the optimizer`
